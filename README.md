@@ -6,3 +6,7 @@ some practice wtih the new R statistics course
 * Inference
 * Regression models
 * What else
+
+
+Graphics 
+* [Joy of plots](https://github.com/vsbuffalo/devnotes/wiki/The-Joy-of-R-Base-Graphics)
