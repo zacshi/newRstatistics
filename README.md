@@ -4,12 +4,13 @@ General topics on R
 
 * [Teach tidyverse insead of base-R](http://varianceexplained.org/r/teach-tidyverse/)
 * [Data science specilization resource](http://datasciencespecialization.github.io/)
-
+* 
 
 some practice wtih the new R statistics course
 
 * Descriptive statistics
 * Inference
+   * [Statistical Inference book by Brian Caffo](https://leanpub.com/LittleInferenceBook/read)
 * Regression models
 * What else
 
