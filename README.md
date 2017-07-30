@@ -4,7 +4,7 @@ General topics on R
 
 * [Teach tidyverse insead of base-R](http://varianceexplained.org/r/teach-tidyverse/)
 * [Data science specilization resource](http://datasciencespecialization.github.io/)
-* 
+* [R in action 2](https://github.com/kabacoff/RiA2)
 
 some practice wtih the new R statistics course
 
