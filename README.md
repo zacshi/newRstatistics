@@ -21,8 +21,8 @@ Graphics
 
 
 
-RNS-seq topics
+RNS-seq data analysis
 
 
-Single cell RNA-seq topics
+Single cell RNA-seq data analysis
 * [Cambridege training course on scRNA-seq](https://hemberg-lab.github.io/scRNA.seq.course/index.html)
