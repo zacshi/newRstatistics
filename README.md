@@ -26,3 +26,4 @@ RNS-seq data analysis
 
 Single cell RNA-seq data analysis
 * [Cambridege training course on scRNA-seq](https://hemberg-lab.github.io/scRNA.seq.course/index.html)
+* [A workflow by Lun et al.](https://www.bioconductor.org/help/workflows/simpleSingleCell/)
