@@ -17,3 +17,12 @@ some practice wtih the new R statistics course
 
 Graphics 
 * [Joy of plots](https://github.com/vsbuffalo/devnotes/wiki/The-Joy-of-R-Base-Graphics)
+
+
+
+
+RNS-seq topics
+
+
+Single cell RNA-seq topics
+* [Cambridege training course on scRNA-seq](https://hemberg-lab.github.io/scRNA.seq.course/index.html)
