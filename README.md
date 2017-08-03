@@ -8,6 +8,7 @@ General topics on R
 
 some practice wtih the new R statistics course
 
+* [Introductory statistics](https://studysites.sagepub.com/dsur/study/default.htm)
 * Descriptive statistics
 * Inference
    * [Statistical Inference book by Brian Caffo](https://leanpub.com/LittleInferenceBook/read)
