@@ -31,4 +31,5 @@ Single cell RNA-seq data analysis
 
 Data science in general
 
-* [Rafal lab](http://rafalab.github.io/pages/harvardx.html)
+* [Rafael lab data science online training](http://rafalab.github.io/pages/harvardx.html)
+
