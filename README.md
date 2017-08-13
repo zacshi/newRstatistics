@@ -12,6 +12,7 @@ some practice wtih the new R statistics course
 * Descriptive statistics
 * Inference
    * [Statistical Inference book by Brian Caffo](https://leanpub.com/LittleInferenceBook/read)
+   * [fiveMinutesStatistics](http://stephens999.github.io/fiveMinuteStats/index.html)
 * Regression models
 * What else
 
