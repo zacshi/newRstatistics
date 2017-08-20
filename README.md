@@ -35,4 +35,5 @@ Single cell RNA-seq data analysis
 Data science in general
 
 * [Rafael lab data science online training](http://rafalab.github.io/pages/harvardx.html)
+* [R for Data Science](http://r4ds.had.co.nz)
 
