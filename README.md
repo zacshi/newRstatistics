@@ -21,6 +21,7 @@ Graphics
 * [Joy of base R plots](https://github.com/vsbuffalo/devnotes/wiki/The-Joy-of-R-Base-Graphics)
 * [An amazing journey with Data Science (1)](https://pparacch.github.io/2017/07/06/plotting_in_R_ggplot2_part_1.html)
 * [An amazing journey with Data Science (2)](https://pparacch.github.io/2017/07/14/plotting_in_R_ggplot2_part_2.html)
+* [Survival and Kaplan-Meier analysis](http://www.sthda.com/english/wiki/survminer-r-package-survival-data-analysis-and-visualization)
 
 
 
